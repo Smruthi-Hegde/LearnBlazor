@@ -1029,3 +1029,4 @@ C:\Users\EI13693\OneDrive - Tietoevry\Desktop\BFSI_Training_Mentoring\RazorWeb\L
 C:\Users\EI13693\OneDrive - Tietoevry\Desktop\BFSI_Training_Mentoring\RazorWeb\LearnBlazor\obj\Debug\net8.0\refint\LearnBlazor.dll
 C:\Users\EI13693\OneDrive - Tietoevry\Desktop\BFSI_Training_Mentoring\RazorWeb\LearnBlazor\obj\Debug\net8.0\LearnBlazor.pdb
 C:\Users\EI13693\OneDrive - Tietoevry\Desktop\BFSI_Training_Mentoring\RazorWeb\LearnBlazor\obj\Debug\net8.0\ref\LearnBlazor.dll
+C:\Users\EI13693\OneDrive - Tietoevry\Desktop\BFSI_Training_Mentoring\RazorWeb\LearnBlazor\obj\Debug\net8.0\LearnBlazor.sourcelink.json
