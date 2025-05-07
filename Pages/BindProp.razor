@@ -1,0 +1,15 @@
+@page "/bindprop"
+<h3>Data binding</h3>
+
+Name: @Product.Name<br />
+IsActive:@Product.IsActive<br />
+Price: @Product.Price<br />
+InputPrice: <input type="number" @bind="Product.Price" @bind:event="oninput" /><br />
+@code{
+    Models.Product Product = new Models.Product()
+    {
+        Name = "Product 1",
+        Id=1,
+        IsActive = true
+    };
+   }
